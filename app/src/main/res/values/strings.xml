@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Graficos Android</string>
+    <string name="titulo">Fundamentos - Graficos - Android</string>
+
+    <string name="crear_grafico_1">Crear Grafico 1</string>
+    <string name="crear_grafico_2">Crear Figuras 1</string>
+    <string name="crear_grafico_3">Crear Figuras 2</string>
+    <string name="crear_grafico_4">Crear Curvas 1</string>
+    <string name="crear_grafico_5">Fourier</string>
+
+</resources>
